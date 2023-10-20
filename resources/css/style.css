@@ -1,0 +1,59 @@
+*{
+    background-color:peachpuff;
+}
+
+a {
+    background-color: #3a4660;
+    color: #c9af98;
+    text-decoration: none;
+    padding: 20px;
+    }
+
+p1{
+    background-color: rgb(250, 255, 105);
+    color: rgb(0, 0, 0);
+}
+
+p2{
+    background-color: rgb(250, 133, 149);
+    color:rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Bungee Spice', sans-serif;
+    color: orange;
+}
+
+h2{
+    font-size: 2rem;
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive
+}
+
+h3{
+    font-size: 2rem;
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive
+}
+
+h4{
+    font-size: 2rem;
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive
+}
+
+h5{
+    font-size: 2rem;
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+h6{
+    font-size: 1.5rem;
+    text-decoration: wavy;
+
+}
+
